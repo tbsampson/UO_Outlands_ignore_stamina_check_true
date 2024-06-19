@@ -1,6 +1,6 @@
 # UO_Outlands_ignore_stamina_check_true
 Script for UO Outlands
-Author: [NKB] Spongebox
+Author: [NKB] Spongebox / Starcaine
 Date: 2024-06-12
 
 Description:
@@ -10,3 +10,4 @@ from false to true in these files. The script requires administrative privileges
 
 Usage:
 Simply run the script. If not running with administrative privileges, it will request them automatically.
+
